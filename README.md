@@ -6,7 +6,7 @@ Lab materials for CP201B: Planning Methods Gateway II, Part 1, UC Berkeley - Spr
 
 Professor: Daniel A. Rodriguez
 
-GSI: Meiqing
+GSI: Meiqing Li
 
 Todos:
 - create local copies and git push
