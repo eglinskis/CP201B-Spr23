@@ -8,7 +8,3 @@ Professor: Daniel A. Rodriguez
 
 GSI: Meiqing Li
 
-Todos:
-- create local copies and git push
-- update labs materials
-
