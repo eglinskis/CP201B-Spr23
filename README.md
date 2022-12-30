@@ -43,11 +43,12 @@ If you do not have Anaconda installed and the materials loaded on your workshop 
 The DataHub downloads this repository, along with any necessary packages, and allows you to run the materials in a Jupyter notebook that is stored on UC Berkeley's servers. No installation is necessary from your end - you only need an internet browser and a CalNet ID to log in. By using the DataHub, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to [DataHub](https://datahub.berkeley.edu), sign in, and you click on the `CP201B-Spr23` folder.
 
 **Troubleshoot**
+
 If you run into trouble launching `CP201B-Spr23` folder in Datahub, go through the following steps: 
 
 1. Sign into [DataHub](https://datahub.berkeley.edu). 
 2. Show the list of files/folders in your directory using the `ls` command.
-3. Remove the old `CP201B-Spr23` folder with `rm -rf [FOLDER_NAME]`(i.e., `rm -rf CP201B-Spr23`).
+3. Remove the old `CP201B-Spr23` folder with `rm -rf [FOLDER_NAME]` (i.e., `rm -rf CP201B-Spr23`).
 4. Launch by clickig the blue button again. 
 
 
