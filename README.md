@@ -27,11 +27,8 @@ Anaconda is a useful package management software that allows you to run Python a
 Now that you have all the required software and materials, you need to run the code:
 
 1. Open the Anaconda Navigator application. You should see the green snake logo appear on your screen. Note that this can take a few minutes to load up the first time. 
-
 2. Click the "Launch" button under "Jupyter Notebooks" and navigate through your file system to the `CP201B-Spr23` folder you downloaded above.
-
 3. In the folder, open the `00_lab_setup.ipynb` to begin.
-
 4. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
 ## Is Python not working on your laptop? 
